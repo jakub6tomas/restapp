@@ -1,39 +1,11 @@
 {
   "posts": [
-      {
-            "defogging": {
-                    "id": "fb3e00a2-5894-444e-ace1-df633d3a18b9",
-                    "name": "frontDefogging",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-df633d3a18b9",
-                           },
-            "warmhand": {
-                    "id": "fb3e00a2-5894-444e-ace1-222222222222",
-                    "name": "frontwarmhand",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-222222222222",
-                           },
-            "warmfeet": {
-                    "id": "fb3e00a2-5894-444e-ace1-333333333333",
-                    "name": "frontwarmfeet",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-333333333333",
-                           },
-            "coolhand": {
-                    "id": "fb3e00a2-5894-444e-ace1-444444444444",
-                    "name": "frontcoolhand",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-444444444444",
-                           },
-            "coolfeet": {
-                    "id": "fb3e00a2-5894-444e-ace1-555555555555",
-                    "name": "frontcoolfeet",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-555555555555",
-                           },
-            "freshair": {
-                    "id": "fb3e00a2-5894-444e-ace1-666666666666",
-                    "name": "frontwarmfeet",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-666666666666",
-                           },
-          },
-],
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
   "profile": {
     "name": "typicode"
-}
+  }
 }
